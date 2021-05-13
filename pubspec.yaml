@@ -50,8 +50,7 @@ flutter:
   assets:
     - assets/Splsh.png
     - assets/Bg.jpeg
-    - assets/Hello.gif
-    - assets/Hell.mp4
+    - assets/sorry.gif
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -39,7 +39,7 @@ class _DisplayState extends State<Display> {
             Container(
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage('assets/Hello.gif'),
+                  image: AssetImage('assets/sorry.gif'),
                 )
               ),
             ),
