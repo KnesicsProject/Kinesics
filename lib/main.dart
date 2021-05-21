@@ -8,7 +8,9 @@ import 'Pages/Home.dart';
 import 'Pages/Splash.dart';
 
 void main(){
-  SystemChrome.setEnabledSystemUIOverlays([SystemUiOverlay.bottom]);
+  SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+    statusBarColor: Colors.transparent, 
+  ));
   runApp(MaterialApp(
     initialRoute: '/Splash',
     routes: {
