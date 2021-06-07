@@ -28,6 +28,7 @@ dependencies:
   hexcolor: ^2.0.3
   swipedetector: ^1.2.0
   animated_text_kit: ^4.2.1
+#  camera: ^0.8.1+2
 
 
   # The following adds the Cupertino Icons font to your application.
